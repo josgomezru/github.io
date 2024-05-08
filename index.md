@@ -1,3 +1,5 @@
+<img style="float: right;" src="https://avatars.githubusercontent.com/u/159712615?v=4" width="250" height="250">
+
 # Jose David Gómez Ruiz
 ## Junior Geologist for GeoPark
 ### Since 2024
